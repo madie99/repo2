@@ -2,3 +2,4 @@
 
 new file created
 text added in newfile in main branch
+test if merge is successful
